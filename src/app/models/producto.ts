@@ -1,6 +1,6 @@
 
 export class Producto{
-    _id?: number;
+    id?: number;
     nombre: String;
     ubicacion: string;
     precio: number;
